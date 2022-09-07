@@ -1,0 +1,12 @@
+matplotlib
+streamlit
+numpy
+Keras
+tensorboard
+tensorboard-plugin-wit
+tensorflow
+tensorflow-estimator
+scipy
+scikit-learn
+inflect
+nltk
